@@ -1,0 +1,12 @@
+{
+  "name": "Bendir",
+  "displayName": "Bendir",
+  "expo": {
+    "name": "Bendir",
+    "slug": "Bendir",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
